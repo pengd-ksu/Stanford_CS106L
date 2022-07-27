@@ -36,10 +36,3 @@ int main(){
     }
 	return 0;
 }
-
-git add README.md
-git commit -m "first commit"
-git branch -M cs106l
-git remote add origin https://github.com/pengd-ksu/Stanford_CS106L.git
-git push -u origin cs106l
-Learn C++ with relatively new features from this class since it's required in my job.
